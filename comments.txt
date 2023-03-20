@@ -1,7 +1,7 @@
 Time spent:
 I took the full 4 hours to make a working solution.
 
-I wrote the program in visual studio code and it runs in the terminal there.
+I wrote the program in visual studio code in python and it runs in the terminal there.
 The solution works, there are certain instances where the input can be incorrect
 and the program will still output a solution, although it is incorrect.
 However if a valid roman numeral or number is given as input, the program
